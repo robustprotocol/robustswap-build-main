@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/assets/css/chart.css"],"names":[],"mappings":"AAAA,kBACE,YACF,CACA,mBACE,UACF","file":"12.4f41e78e.chunk.css","sourcesContent":["[aria-labelledby] {\r\n  display: none;\r\n}\r\n[aria-label=\"Chart\"] {\r\n  width: 100%;\r\n}"]}
