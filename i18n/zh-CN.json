@@ -147,7 +147,7 @@
     {
       "data": {
         "stringId": 319,
-        "text": "Calculated based on current rates. Compounding once daily. Rates are estimates provided for your convenience only, and by no means represent guaranteed returns."
+        "text": "Calculated based on current rates. Rates are estimates provided for your convenience only, and by no means represent guaranteed returns."
       }
     },
     {
@@ -177,7 +177,7 @@
     {
       "data": {
         "stringId": 325,
-        "text": "ROBUST PER"
+        "text": "RBS PER"
       }
     },
     {

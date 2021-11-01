@@ -51,7 +51,7 @@
     {
       "data": {
         "stringId": 295,
-        "text": "How soon can you harvest or compound again."
+        "text": "How often you can harvest your earned RBS."
       }
     },
     {
@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 299,
-        "text": "The multiplier represents the amount of ROBUST rewards each farm gets. For example, if a 1x farm was getting 1 ROBUST per block, a 40x farm would be getting 40 ROBUST per block."
+        "text": "The multiplier represents the amount of RBS rewards each farm gets. For example, if a 1x farm was getting 1 RBS per block, a 40x farm would be getting 40 RBS per block."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 319,
-        "text": "Calculated based on current rates. Compounding once daily. Rates are estimates provided for your convenience only, and by no means represent guaranteed returns."
+        "text": "Calculated based on current rates. Rates are estimates provided for your convenience only, and by no means represent guaranteed returns."
       }
     },
     {
@@ -189,7 +189,7 @@
     {
       "data": {
         "stringId": 325,
-        "text": "ROBUST PER"
+        "text": "RBS PER"
       }
     },
     {
@@ -225,7 +225,7 @@
     {
       "data": {
         "stringId": 333,
-        "text": "Staked LP"
+        "text": "Staked Tokens"
       }
     },
     {
@@ -459,7 +459,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of ROBUST block emissions each day (10 ROBUST per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of ROBUST block emissions each day (10 RBS per block), Rewards are distributed each block."
       }
     },
     {
@@ -771,7 +771,7 @@
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of ROBUST block emissions each day (10 ROBUST per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of ROBUST block emissions each day (10 RBS per block), Rewards are distributed each block."
       }
     },
     {
