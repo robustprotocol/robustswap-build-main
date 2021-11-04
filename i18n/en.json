@@ -87,7 +87,7 @@
     {
       "data": {
         "stringId": 301,
-        "text": "Total value of fund in this farm’s liquidity pool"
+        "text": "Total USD value of funds in this farm’s liquidity pool"
       }
     },
     {
@@ -106,6 +106,12 @@
       "data": {
         "stringId": 304,
         "text": "Total ROBUST burned since launch"
+      }
+    },
+    {
+      "data": {
+        "stringId": 305,
+        "text": "Total USD value of funds in this pool"
       }
     },
     {
@@ -1581,7 +1587,7 @@
     {
       "data": {
         "stringId": 736,
-        "text": "deposit with out featured farms."
+        "text": "deposit with our featured farms."
       }
     },
     {
