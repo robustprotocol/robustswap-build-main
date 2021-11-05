@@ -1,10 +1,16 @@
 {
   "short_name": "RobustSwap",
   "name": "RobustSwap",
-  "description": "Farm ROBUST with LP Tokens",
+  "description": "RobustSwap DEX and AMM by the Robust Protocol Team.",
   "icons": [
     {
-      "src": "RBS.png",
+      "src": "./logo.png",
+      "sizes": "256x256"
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./RBS.png",
       "type": "image/x-icon",
       "sizes": "256x256"
     }
