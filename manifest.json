@@ -2,6 +2,12 @@
   "short_name": "RobustSwap",
   "name": "RobustSwap",
   "description": "RobustSwap DEX and AMM by Robust Protocol.",
+  "homepage_url": "https://robustswap.com",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
   "icons": [
     {
       "src": "/icons/logo_160x160.png",
@@ -20,10 +26,16 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    },
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
-  ],
-  "orientation": "portrait",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
