@@ -87,7 +87,7 @@
     {
       "data": {
         "stringId": 302,
-        "text": "\u5404\u5340\u584a\u7684\u65b0\u734e\u52f5"
+        "text": "每塊排放量"
       }
     },
     {
@@ -158,6 +158,12 @@
     },
     {
       "data": {
+        "stringId": 321,
+        "text": "賭注"
+      }
+    },
+    {
+      "data": {
         "stringId": 322,
         "text": "\u8cea\u62bc ROBUST\uff0c\u4ee5\u53d6\u5f97 Syrup\u3002"
       }
@@ -178,6 +184,12 @@
       "data": {
         "stringId": 325,
         "text": "RBS PER"
+      }
+    },
+    {
+      "data": {
+        "stringId": 326,
+        "text": "使能夠"
       }
     },
     {
@@ -812,6 +824,12 @@
     },
     {
       "data": {
+        "stringId": 509,
+        "text": "賺 RBS."
+      }
+    },
+    {
+      "data": {
         "stringId": 510,
         "text": "\u60a8\u53d6\u5f97\u4ee3\u5e63\u3002"
       }
@@ -915,7 +933,7 @@
     {
       "data": {
         "stringId": 538,
-        "text": "總銷毀量"
+        "text": "銷毀量"
       }
     },
     {
@@ -981,7 +999,7 @@
     {
       "data": {
         "stringId": 558,
-        "text": "\u8cfc\u8cb7\u7968\u5238"
+        "text": "買"
       }
     },
     {
@@ -1017,13 +1035,13 @@
     {
       "data": {
         "stringId": 576,
-        "text": "ROBUSTSwap"
+        "text": "歡迎來到ROBUSTSWAP"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "Binance智能鏈上的首個流動性自動收購的收益農場和AMM項目"
+        "text": "一個超通貨緊縮的去中心化交易所, 旨在優化盈利能力."
       }
     },
     {
@@ -1269,7 +1287,7 @@
     {
       "data": {
         "stringId": 655,
-        "text": "現行匯集"
+        "text": "頂池"
       }
     },
     {
@@ -1281,7 +1299,7 @@
     {
       "data": {
         "stringId": 657,
-        "text": "現行農場"
+        "text": "頂級農場"
       }
     },
     {
@@ -1389,7 +1407,7 @@
     {
       "data": {
         "stringId": 686,
-        "text": "\u6d41\u52d5\u6027"
+        "text": "流動性"
       }
     },
     {
@@ -1497,19 +1515,19 @@
     {
       "data": {
         "stringId": 720,
-        "text": "\u7b2c %num% \u56de\u5408"
+        "text": "銷售稅"
       }
     },
     {
       "data": {
         "stringId": 722,
-        "text": "\u7e3d\u734e\u6c60"
+        "text": "購買稅"
       }
     },
     {
       "data": {
         "stringId": 724,
-        "text": "\u60a8\u5728\u6b64\u56de\u5408\u7684\u7968\u5238\u6578"
+        "text": "轉讓稅"
       }
     },
     {
@@ -1520,14 +1538,62 @@
     },
     {
       "data": {
+        "stringId": 726,
+        "text": "金額限制"
+      }
+    },
+    {
+      "data": {
         "stringId": 729,
-        "text": "質押您的 LP 代幣以換取並賺取高額收益 ROBUST 代幣"
+        "text": "ROBUST農場為您提供多種耕作機會和高額回報. 通過質押您的 LP 代幣獲得獎勵."
       }
     },
     {
       "data": {
         "stringId": 730,
-        "text": "交易的收入."
+        "text": "寻找有竞争力的回, 低风险且没有无常损失的农业替代方案? 在下方质押您的 RBS 和其他代币以赚取更多 RBS."
+      }
+    },
+    {
+      "data": {
+        "stringId": 731,
+        "text": "RBS 交易限額"
+      }
+    },
+    {
+      "data": {
+        "stringId": 733,
+        "text": "RBS 供應統計"
+      }
+    },
+    {
+      "data": {
+        "stringId": 734,
+        "text": "享受 "
+      }
+    },
+    {
+      "data": {
+        "stringId": 735,
+        "text": "自由"
+      }
+    },
+    {
+      "data": {
+        "stringId": 736,
+        "text": "在我們的特色農場存款."
+      }
+    },
+    {
+      "data": {
+        "stringId": 737,
+        "text": "高年利率,"
+      }
+    },
+    {
+      "data": {
+        "stringId": 738,
+        "text": "低風險收益."
       }
     },
     {
@@ -1545,13 +1611,13 @@
     {
       "data": {
         "stringId": 10003,
-        "text": "公告"
+        "text": "一起賺 RBS."
       }
     },
     {
       "data": {
         "stringId": 10004,
-        "text": "總流通量"
+        "text": "流通量"
       }
     },
     {
@@ -1563,13 +1629,13 @@
     {
       "data": {
         "stringId": 10006,
-        "text": "ROBUSTSwap 推薦計劃"
+        "text": "邀請朋友."
       }
     },
     {
       "data": {
         "stringId": 10007,
-        "text": "分享下面的推薦鏈接以邀請您的朋友，並永久賺取您推薦朋友收入的%rate%％！"
+        "text": "使用您的推薦鏈接邀請您的朋友, 並從他們的收入中獲得獎勵."
       }
     },
     {
@@ -1581,7 +1647,7 @@
     {
       "data": {
         "stringId": 10009,
-        "text": "您的推薦鏈接"
+        "text": "推薦鏈接"
       }
     },
     {
@@ -1599,7 +1665,7 @@
     {
       "data": {
         "stringId": 10024,
-        "text": "推薦佣金總額"
+        "text": "您的RBS收入"
       }
     },
     {
@@ -1635,7 +1701,7 @@
     {
       "data": {
         "stringId": 10030,
-        "text": "最高轉賬金額"
+        "text": "最大值"
       }
     },
     {
@@ -1653,7 +1719,7 @@
     {
       "data": {
         "stringId": 10033,
-        "text": "轉賬稅"
+        "text": "徵稅總額"
       }
     },
     {
@@ -1684,6 +1750,24 @@
       "data": {
         "stringId": 10038,
         "text": "代幣價格"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10039,
+        "text": "在推特上關注我們"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10040,
+        "text": "24小時低"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10041,
+        "text": "24小時高"
       }
     }
   ],

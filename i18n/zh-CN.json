@@ -87,7 +87,7 @@
     {
       "data": {
         "stringId": 302,
-        "text": "\u6bcf\u4e2a\u533a\u5757\u7684\u65b0\u5956\u52b1"
+        "text": "每块排放量"
       }
     },
     {
@@ -158,6 +158,12 @@
     },
     {
       "data": {
+        "stringId": 321,
+        "text": "赌注"
+      }
+    },
+    {
+      "data": {
         "stringId": 322,
         "text": "\u8d28\u62bc ROBUST\uff0c\u83b7\u53d6 SYRUP\u3002"
       }
@@ -178,6 +184,12 @@
       "data": {
         "stringId": 325,
         "text": "RBS PER"
+      }
+    },
+    {
+      "data": {
+        "stringId": 326,
+        "text": "使能够"
       }
     },
     {
@@ -812,6 +824,12 @@
     },
     {
       "data": {
+        "stringId": 509,
+        "text": "赚 RBS."
+      }
+    },
+    {
+      "data": {
         "stringId": 510,
         "text": "\u60a8\u83b7\u5f97\u4e86\u4ee3\u5e01\u3002"
       }
@@ -909,13 +927,13 @@
     {
       "data": {
         "stringId": 536,
-        "text": "总铸币量"
+        "text": "铸币量"
       }
     },
     {
       "data": {
         "stringId": 538,
-        "text": "总焚毁量"
+        "text": "焚毁量"
       }
     },
     {
@@ -981,7 +999,7 @@
     {
       "data": {
         "stringId": 558,
-        "text": "\u8d2d\u4e70\u5f69\u7968"
+        "text": "买"
       }
     },
     {
@@ -1017,13 +1035,13 @@
     {
       "data": {
         "stringId": 576,
-        "text": "ROBUSTSwap"
+        "text": "欢迎来到 ROBUSTSWAP"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "Binance智能链上的首个流动性自动收购的收益农场和AMM项目"
+        "text": "一个超通货紧缩的去中心化交易所，旨在优化盈利能力"
       }
     },
     {
@@ -1269,7 +1287,7 @@
     {
       "data": {
         "stringId": 655,
-        "text": "现行汇集"
+        "text": "顶池"
       }
     },
     {
@@ -1281,7 +1299,7 @@
     {
       "data": {
         "stringId": 657,
-        "text": "现行农场"
+        "text": "顶级农场"
       }
     },
     {
@@ -1389,7 +1407,7 @@
     {
       "data": {
         "stringId": 686,
-        "text": "\u6d41\u52a8\u6027"
+        "text": "流动性"
       }
     },
     {
@@ -1497,19 +1515,19 @@
     {
       "data": {
         "stringId": 720,
-        "text": "\u7b2c %num% \u56de\u5408"
+        "text": "销售税"
       }
     },
     {
       "data": {
         "stringId": 722,
-        "text": "\u603b\u5956\u6c60"
+        "text": "购买税"
       }
     },
     {
       "data": {
         "stringId": 724,
-        "text": "\u60a8\u5728\u6b64\u56de\u5408\u7684\u5f69\u7968\u6570"
+        "text": "转让税"
       }
     },
     {
@@ -1520,14 +1538,62 @@
     },
     {
       "data": {
+        "stringId": 726,
+        "text": "金额限制"
+      }
+    },
+    {
+      "data": {
         "stringId": 729,
-        "text": "抵押您的 LP 代币以换取并赚取高额的 ROBUST 代币"
+        "text": "ROBUST农场为您提供多种耕作机会和高回报. 通过质押您的 LP 代币获得奖励."
       }
     },
     {
       "data": {
         "stringId": 730,
-        "text": "交易的收入."
+        "text": "尋找有競爭力的回報, 低風險且沒有無常損失的農業替代方案? 在下方抵押您的 RBS 和其他代幣以賺取更多 RBS."
+      }
+    },
+    {
+      "data": {
+        "stringId": 731,
+        "text": "RBS 交易限额"
+      }
+    },
+    {
+      "data": {
+        "stringId": 733,
+        "text": "RBS 供应统计"
+      }
+    },
+    {
+      "data": {
+        "stringId": 734,
+        "text": "享受 "
+      }
+    },
+    {
+      "data": {
+        "stringId": 735,
+        "text": "自由"
+      }
+    },
+    {
+      "data": {
+        "stringId": 736,
+        "text": "在我们的特色农场存款."
+      }
+    },
+    {
+      "data": {
+        "stringId": 737,
+        "text": "高年利率,"
+      }
+    },
+    {
+      "data": {
+        "stringId": 738,
+        "text": "低风险收益."
       }
     },
     {
@@ -1545,13 +1611,13 @@
     {
       "data": {
         "stringId": 10003,
-        "text": "公告"
+        "text": "一起赚 RBS."
       }
     },
     {
       "data": {
         "stringId": 10004,
-        "text": "总流通量"
+        "text": "流通量"
       }
     },
     {
@@ -1563,13 +1629,13 @@
     {
       "data": {
         "stringId": 10006,
-        "text": "ROBUSTSwap 推荐计划"
+        "text": "邀请朋友."
       }
     },
     {
       "data": {
         "stringId": 10007,
-        "text": "分享下面的推荐链接以邀请您的朋友，并永久赚取您推荐朋友收入的%rate%％！"
+        "text": "使用您的推荐链接邀请您的朋友, 并从他们的收入中获得奖励."
       }
     },
     {
@@ -1581,7 +1647,7 @@
     {
       "data": {
         "stringId": 10009,
-        "text": "您的推荐链接"
+        "text": "推荐链接"
       }
     },
     {
@@ -1599,7 +1665,7 @@
     {
       "data": {
         "stringId": 10024,
-        "text": "推荐佣金总额"
+        "text": "您的RBS收入"
       }
     },
     {
@@ -1635,7 +1701,7 @@
     {
       "data": {
         "stringId": 10030,
-        "text": "最高转账金额"
+        "text": "最大值"
       }
     },
     {
@@ -1653,7 +1719,7 @@
     {
       "data": {
         "stringId": 10033,
-        "text": "转账税"
+        "text": "征税总额"
       }
     },
     {
@@ -1684,6 +1750,24 @@
       "data": {
         "stringId": 10038,
         "text": "代币价格"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10039,
+        "text": "在推特上关注我们"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10040,
+        "text": "24小时低"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10041,
+        "text": "24小时高"
       }
     }
   ],

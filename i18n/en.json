@@ -93,7 +93,7 @@
     {
       "data": {
         "stringId": 302,
-        "text": "New rewards per block"
+        "text": "Emission Per Block"
       }
     },
     {
@@ -171,7 +171,7 @@
     {
       "data": {
         "stringId": 321,
-        "text": "Stake"
+        "text": "STAKE"
       }
     },
     {
@@ -196,6 +196,12 @@
       "data": {
         "stringId": 325,
         "text": "RBS PER"
+      }
+    },
+    {
+      "data": {
+        "stringId": 326,
+        "text": "ENABLE"
       }
     },
     {
@@ -824,6 +830,12 @@
     },
     {
       "data": {
+        "stringId": 509,
+        "text": "Earn RBS."
+      }
+    },
+    {
+      "data": {
         "stringId": 510,
         "text": "You get the tokens."
       }
@@ -921,13 +933,13 @@
     {
       "data": {
         "stringId": 536,
-        "text": "Total Minted"
+        "text": "Minted"
       }
     },
     {
       "data": {
         "stringId": 538,
-        "text": "Total Burned"
+        "text": "Burned"
       }
     },
     {
@@ -993,7 +1005,7 @@
     {
       "data": {
         "stringId": 558,
-        "text": "Buy Tickets"
+        "text": "BUY"
       }
     },
     {
@@ -1281,7 +1293,7 @@
     {
       "data": {
         "stringId": 655,
-        "text": "Active pools"
+        "text": "Top Pools"
       }
     },
     {
@@ -1293,7 +1305,7 @@
     {
       "data": {
         "stringId": 657,
-        "text": "Active farms"
+        "text": "Top Farms"
       }
     },
     {
@@ -1509,19 +1521,19 @@
     {
       "data": {
         "stringId": 720,
-        "text": "Round #%num%"
+        "text": "Sell Tax"
       }
     },
     {
       "data": {
         "stringId": 722,
-        "text": "Total Pot"
+        "text": "Buy Tax"
       }
     },
     {
       "data": {
         "stringId": 724,
-        "text": "Your tickets for this round"
+        "text": "Transfer Tax"
       }
     },
     {
@@ -1533,7 +1545,7 @@
     {
       "data": {
         "stringId": 726,
-        "text": "Sorry, no prizes to collect"
+        "text": "Amount Limit"
       }
     },
     {
@@ -1558,12 +1570,6 @@
       "data": {
         "stringId": 731,
         "text": "RBS Transaction Limit"
-      }
-    },
-    {
-      "data": {
-        "stringId": 732,
-        "text": "RBS Transaction Tax"
       }
     },
     {
@@ -1617,13 +1623,13 @@
     {
       "data": {
         "stringId": 10003,
-        "text": "Announcements"
+        "text": "Earn RBS together."
       }
     },
     {
       "data": {
         "stringId": 10004,
-        "text": "Circulating Supply"
+        "text": "Circulation"
       }
     },
     {
@@ -1635,13 +1641,13 @@
     {
       "data": {
         "stringId": 10006,
-        "text": "RobustSwap Referral Program"
+        "text": "Invite friends."
       }
     },
     {
       "data": {
         "stringId": 10007,
-        "text": "Share the referral link below to invite your friends and earn %rate%% of your friends' earnings FOREVER!"
+        "text": "Invite your friends with your referral link and get rewarded from their earnings."
       }
     },
     {
@@ -1653,7 +1659,7 @@
     {
       "data": {
         "stringId": 10009,
-        "text": "Your Referral Link"
+        "text": "Referral Link"
       }
     },
     {
@@ -1671,7 +1677,7 @@
     {
       "data": {
         "stringId": 10024,
-        "text": "Total Referral Commissions"
+        "text": "Your RBS Earnings"
       }
     },
     {
@@ -1707,7 +1713,7 @@
     {
       "data": {
         "stringId": 10030,
-        "text": "Max Tx Amount"
+        "text": "Maximum"
       }
     },
     {
@@ -1725,7 +1731,7 @@
     {
       "data": {
         "stringId": 10033,
-        "text": "Transfer Tax"
+        "text": "Taxed"
       }
     },
     {
@@ -1762,6 +1768,18 @@
       "data": {
         "stringId": 10039,
         "text": "Follow us on twitter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10040,
+        "text": "24H Low"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10041,
+        "text": "24H High"
       }
     }
   ],
