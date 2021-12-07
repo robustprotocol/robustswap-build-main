@@ -1610,6 +1610,12 @@
     },
     {
       "data": {
+        "stringId": 10000,
+        "text": "Burn amount"
+      }
+    },
+    {
+      "data": {
         "stringId": 10001,
         "text": "Deposit Fee"
       }
